@@ -2,6 +2,9 @@
 datasets/
 logs/
 *.h5
+*.jpg
+*.tar.xz
+*.tar
 results/
 temp/
 test/
